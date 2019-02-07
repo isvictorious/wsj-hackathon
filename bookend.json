@@ -1,0 +1,43 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More from your personalized feed"
+    },
+    {
+      "type": "small",
+      "title": "Learn about restaurant indsutry",
+      "url": "https://www.wsj.com",
+      "image": "assets/amp-1.jpeg"
+    },
+    {
+      "type": "landscape",
+      "title": "Learn about Hong Kong",
+      "url": "https://www.wsj.com",
+      "image": "assets/amp-2.jpeg",
+      "category": "Dogs"
+    },
+    {
+      "type": "portrait",
+      "title": "Learn about Brazil",
+      "url": "https://www.wsj.com",
+      "image": "assets/amp-3.jpeg",
+      "category": "birds"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "WSJ home",
+          "url": "https://www.wsj.com"
+        }
+      ]
+    }
+  ]
+}
