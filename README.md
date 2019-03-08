@@ -1,6 +1,8 @@
-# AMP Story tutorial "Joy of Pets"
+# WSJ Hackathon Project: "Daily 5 Star"
 
-This folder contains the files for the "Create a visual AMP Story" tutorial.
+Created a proof of concept demo that would give people their 5 daily recommended articles.
+
+View the [DEMO HERE](https://isvictorious.github.io/wsj-hackathon/)
 
 ## Files included
 
